@@ -46,3 +46,6 @@ https://www.arduinobrasil.cc/files/dados_coletados.mp4
 ## Autores:
 Ivo Brites<br/>
 Josué Nascimento<br/>
+
+## Referencias:
+VALENTE, J. H. R. Monitorização de ECG de Pacientes em Mobilidade. 137 p., 2014.
