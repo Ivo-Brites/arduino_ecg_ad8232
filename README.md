@@ -13,10 +13,10 @@ O sinal de ECG é um sinal analógico sendo necessário proceder à digitalizaç
 ![](https://user-images.githubusercontent.com/77074489/103965373-f32e1e80-5133-11eb-8532-ab204fa965a6.png)
 
 ## Equipamentos:
-[1] MÓDULO PULSO CARDÍACO COM ELETRODOS AD8232
-[2] ARDUINO UNO R3
-[3] CABO USB
-[4] 5 JUMPERS MACHO/FÊMEA
+[1] MÓDULO PULSO CARDÍACO COM ELETRODOS AD8232#
+[2] ARDUINO UNO R3#
+[3] CABO USB#
+[4] 5 JUMPERS MACHO/FÊMEA#
 
 ## Programação Arduino:
 
