@@ -13,16 +13,36 @@ O sinal de ECG é um sinal analógico sendo necessário proceder à digitalizaç
 ![](https://user-images.githubusercontent.com/77074489/103965373-f32e1e80-5133-11eb-8532-ab204fa965a6.png)
 
 ## Equipamentos:
-[1] MÓDULO PULSO CARDÍACO COM ELETRODOS AD8232#
-[2] ARDUINO UNO R3#
-[3] CABO USB#
-[4] 5 JUMPERS MACHO/FÊMEA#
+[1] MÓDULO PULSO CARDÍACO COM ELETRODOS AD8232 <br/>
+[2] ARDUINO UNO R3<br/>
+[3] CABO USB<br/>
+[4] 5 JUMPERS MACHO/FÊMEA<br/>
 
 ## Programação Arduino:
+...
+void setup() {
+  Serial.begin(9600);
+  pinMode(10, INPUT);
+  pinMode(11, INPUT);  
+}
 
+void loop() {
+ if ((digitalRead(10)==1)||(digitalRead(11) == 1)){
+   Serial.println("!");
+ } else {
+   Serial.println(analogRead(A0));
+ }
+ 
+ delay(1);  
+}
+...
 
 ## Dados Coletados:
 ![](https://user-images.githubusercontent.com/77074489/103965437-12c54700-5134-11eb-898d-5b5f2ee7dd44.png)
 
 ## Vídeo disponível em 
 https://www.arduinobrasil.cc/files/dados_coletados.mp4
+
+## Autores:
+Ivo Brites<br/>
+Josué Nascimento<br/>
