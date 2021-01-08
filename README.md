@@ -1,4 +1,4 @@
-# arduino_ecg_ad8232
+# Arduino ECG Portátil
 A escalabilidade é uma característica muito aplicada em solução de tecnologia da informação / computação. O conceito de “crescer” a oferta de recursos por demanda é muito atrativo em prover melhores produtos e diminuição de custo. Relacionando o tema a área de saúde, vemos atualmente dificuldade, principalmente econômica, na adequação de leitos a demanda de pacientes com a COVID-19. Com o uso da computação ubíqua (IoT – Internet of Things/Internet das Coisas).
 
 O AD8232 é um bloco de condicionamento de sinal integrado para aplicações de medição de ECG (eletrocardiografia) e monitoramento da frequência cardíaca. Ele é projetado para extrair, amplificar e filtrar pequenos sinais biopotenciais na presença de condições ruidosas, como aquelas criadas por movimento ou posicionamento de eletrodos remotos. Esse design permite que um conversor analógico-digital (ADC) de energia ultrabaixa ou um microcontrolador incorporado adquira facilmente o sinal de saída (fonte: https://www.eletrogate.com/modulo-pulso-cardiaco-com-eletrodos-ad8232).
@@ -19,7 +19,7 @@ O sinal de ECG é um sinal analógico sendo necessário proceder à digitalizaç
 [4] 5 JUMPERS MACHO/FÊMEA<br/>
 
 ## Programação Arduino:
-...
+```
 void setup() {
   Serial.begin(9600);
   pinMode(10, INPUT);
@@ -35,7 +35,7 @@ void loop() {
  
  delay(1);  
 }
-...
+```
 
 ## Dados Coletados:
 ![](https://user-images.githubusercontent.com/77074489/103965437-12c54700-5134-11eb-898d-5b5f2ee7dd44.png)
