@@ -40,7 +40,7 @@ void loop() {
 ## Dados Coletados:
 ![](https://user-images.githubusercontent.com/77074489/103965437-12c54700-5134-11eb-898d-5b5f2ee7dd44.png)
 
-## Vídeo disponível em 
+## Vídeo disponível em:
 https://www.arduinobrasil.cc/files/dados_coletados.mp4
 
 ## Autores:
