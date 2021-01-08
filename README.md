@@ -14,10 +14,12 @@ O sinal de ECG é um sinal analógico sendo necessário proceder à digitalizaç
 
 ## Equipamentos:
 
+
 ## Programação Arduino:
 
 
 ## Dados Coletados:
 
 
-## Vídeo disponível emhttps://www.arduinobrasil.cc/files/dados_coletados.mp4
+## Vídeo disponível em 
+https://www.arduinobrasil.cc/files/dados_coletados.mp4
