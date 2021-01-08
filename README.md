@@ -9,8 +9,15 @@ O ECG é a medição dos potenciais elétricos gerados pela despolarização e r
 
 O sinal de ECG é um sinal analógico sendo necessário proceder à digitalização e quantização deste tipo de sinal uma vez que os computadores e os dispositivos móveis operam no domínio discreto. Este tipo de sinal é susceptível a ruído proveniente de várias fontes, nomeadamente da rede elétrica, da deslocação dos eletrodos relativamente à sua posição inicial e de certos artefatos originados pela contração muscular. É necessário proceder a uma filtragem do sinal previamente à fase de detecção do complexo QRS. (VALENTE, 2014)
 
+## Esquema de ligação:
+![](https://user-images.githubusercontent.com/77074489/103965373-f32e1e80-5133-11eb-8532-ab204fa965a6.png)
+
+## Equipamentos:
+
+## Programação Arduino:
 
 
-Dados Coletados:
- 
-Vídeo disponível emhttps://www.arduinobrasil.cc/files/dados_coletados.mp4
+## Dados Coletados:
+
+
+## Vídeo disponível emhttps://www.arduinobrasil.cc/files/dados_coletados.mp4
