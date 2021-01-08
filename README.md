@@ -48,5 +48,5 @@ Ivo Brites<br/>
 Josué Nascimento<br/>
 
 ## Vídeos do projeto
-![](https://user-images.githubusercontent.com/77074489/103965437-12c54700-5134-11eb-898d-5b5f2ee7dd44.png)
-![](https://user-images.githubusercontent.com/77074489/103965437-12c54700-5134-11eb-898d-5b5f2ee7dd44.png)
+![](https://user-images.githubusercontent.com/77074489/VID-20210105-WA0070.mp4)
+![](https://user-images.githubusercontent.com/77074489/VID-20210105-WA0071.mp4)
