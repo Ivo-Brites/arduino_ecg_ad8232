@@ -46,7 +46,3 @@ https://www.arduinobrasil.cc/files/dados_coletados.mp4
 ## Autores:
 Ivo Brites<br/>
 Josué Nascimento<br/>
-
-## Vídeos do projeto
-![](https://user-images.githubusercontent.com/77074489/104006407-d7029f80-517c-11eb-9e84-2c9b16f52922.mp4)
-![](https://user-images.githubusercontent.com/77074489/104006393-cfdb9180-517c-11eb-9d8a-84669ecebf3f.mp4)
