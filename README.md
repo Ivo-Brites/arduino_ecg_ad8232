@@ -19,7 +19,7 @@ O sinal de ECG é um sinal analógico sendo necessário proceder à digitalizaç
 
 
 ## Dados Coletados:
-
+![](https://user-images.githubusercontent.com/77074489/103965437-12c54700-5134-11eb-898d-5b5f2ee7dd44.png)
 
 ## Vídeo disponível em 
 https://www.arduinobrasil.cc/files/dados_coletados.mp4
